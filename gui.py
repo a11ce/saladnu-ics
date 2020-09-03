@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 
-import PySimpleGUI as sg
+try:
+    import PySimpleGUI as sg
+except:
+    from lib import PySimpleGUI as sg
+    
 import saladnu_ics as sics
 import traceback 
 

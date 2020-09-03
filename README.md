@@ -7,6 +7,10 @@
 - Install GUI library with `pip3 install pysimplegui` if you want a GUI.
 - Download with `git clone https://github.com/a11ce/saladnu-ics.git`
 
+## Building
+- Install [platypus](https://sveinbjorn.org/platypus) CLI with `brew install platypus`
+- Run `make`
+
 ## Usage
 
 ### GUI
