@@ -1,2 +1,5 @@
 nu_schedule.csv
 nu_schedule.ics
+dist/
+build/
+.eggs/
