@@ -11,7 +11,7 @@
 
 - Export your CSV schedule from salad.nu 
 - Place nu_schedule.csv in this folder.
-- Run `python3 saladnu-ics.py`
+- Run `python3 saladnu_ics.py`
 - Open nu_schedule.ics in your calendar of choice.
 - Salad.nu uses CST, and ICS by default uses UTC, so the conversion should 'just work'.
 
