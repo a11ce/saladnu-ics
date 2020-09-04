@@ -8,7 +8,7 @@
 - Select your downloaded schedule.
 - The ICS will be saved next to the CSV, ready to be opened in your calendar of choice.
 
-## Setup
+## CLI/Dev Setup
 
 - Install GUI library with `pip3 install pysimplegui` if you want a GUI.
 - Download with `git clone https://github.com/a11ce/saladnu-ics.git`
